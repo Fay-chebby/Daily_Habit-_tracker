@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-
+// Schema
 const habitSchema = new mongoose.Schema({
   name: {
     type: String,
